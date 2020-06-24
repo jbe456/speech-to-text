@@ -6,6 +6,16 @@ Use Microsoft Recognition Services to transcribe wav audio file into text.
 
 ![](./preview.png)
 
+### Where do I find my subscription key and region?
+
+1. Connect to Microsoft Azure portal
+1. Add or select a text to speech Cognitive Services to your resource group
+1. Select "Keys and Endpoint" (1)
+1. The subcription key is referenced by either one of "KEY 1" or "KEY 2" fields.
+1. The region is referenced by the "LOCATION" field (3)
+
+![](./azure-how-to.png)
+
 ## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
