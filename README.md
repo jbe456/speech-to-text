@@ -1,6 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Speech To Text
+
+Use Microsoft Recognition Services to transcribe wav audio file into text.
+
+[Try it live](https://jbe456.github.io/speech-to-text/)
+
+![](./preview.png)
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
